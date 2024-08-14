@@ -90,7 +90,7 @@ body::before {
     gap: 2em;
 }
 
-h1 {
+h1,h2 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
     padding-bottom: 3rem;
